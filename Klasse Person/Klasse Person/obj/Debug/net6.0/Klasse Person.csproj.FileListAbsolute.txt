@@ -1,0 +1,14 @@
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\bin\Debug\net6.0\Klasse Person.exe
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\bin\Debug\net6.0\Klasse Person.deps.json
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\bin\Debug\net6.0\Klasse Person.runtimeconfig.json
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\bin\Debug\net6.0\Klasse Person.dll
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\bin\Debug\net6.0\Klasse Person.pdb
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\Klasse Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\Klasse Person.AssemblyInfoInputs.cache
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\Klasse Person.AssemblyInfo.cs
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\Klasse Person.csproj.CoreCompileInputs.cache
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\Klasse Person.dll
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\refint\Klasse Person.dll
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\Klasse Person.pdb
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\Klasse Person.genruntimeconfig.cache
+C:\Users\Wolf Tim\source\repos\Klasse Person\Klasse Person\obj\Debug\net6.0\ref\Klasse Person.dll

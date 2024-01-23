@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Klasse Person/1.0.0": {
+        "runtime": {
+          "Klasse Person.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Klasse Person/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
